@@ -2,7 +2,7 @@
 atom plugins for ReactJS
 __________________________________________________________________
 
-atom-ternjs // Adds support for ES5, ES6, Node.js. Uses suggestion provider by autocomplete-plus.
+atom-ternjs // Adds support for ES5, ES6, Node.js. Uses suggestion provider by autocomplete-plus.\n
 language-babel // JavaScript ES201x, React JSX, Flow. Babel Transpiler.
 autocomplete-modules // Autocomplete for require/import statements.
 autoclose-html // Automates closing of HTML Tags.
