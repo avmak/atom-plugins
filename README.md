@@ -14,6 +14,7 @@ __________________________________________________________________
 * highlight-selected // Highlights the current word selected when double clicking.
 * open-in-browser // Simple Package to open file in default Browser.
 * platformio-ide-terminal // A terminal package for Atom
+* multi-cursor // Package to easily create more cursors with keystrokes.
 
 ### atom-themes
 __________________________________________________________________
